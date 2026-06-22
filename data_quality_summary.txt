@@ -1,0 +1,19 @@
+01_fund_master.csv - Loaded successfully
+
+02_nav_history.csv - Loaded successfully
+
+03_aum_by_fund_house.csv - Loaded successfully
+
+04_monthly_sip_inflows.csv - Loaded successfully
+
+05_category_inflows.csv - Loaded successfully
+
+06_industry_folio_count.csv - Loaded successfully
+
+07_scheme_performance.csv - Loaded successfully
+
+08_investor_transactions.csv - Loaded successfully
+
+09_portfolio_holdings.csv - Loaded successfully
+
+10_benchmark_indices.csv - Loaded successfully
